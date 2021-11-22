@@ -1,1 +1,4 @@
 mencari referensi final project alpro
+1. melihat source code beberapa game dalam bahasa C
+2. mencari referensi dengan menonton Youtube
+3. membahas waktu untuk diskusi selanjutnya
