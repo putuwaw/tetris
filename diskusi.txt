@@ -7,3 +7,4 @@ rancangan awal project
 1. memilih jenis game yang akan dibuat (tetris)
 2. menentukan IDE yang akan digunakan untuk pengembangan (DevC++ dan CodeBlocks)
 3. mempersiapkan aset-aset untuk game (background)
+4. menambahkan sumber gambar (background)
