@@ -335,7 +335,6 @@ int main(){
                                         if(Mouse::isButtonPressed(Mouse::Left)){
                                             soundoff = 0;
                                             musik.play();
-                                            soundoff = 3;
                                         }
                                     }
                                     else if (lokasiSetting.x < 860 && lokasiSetting.x > 750 && lokasiSetting.y > 488 && lokasiSetting.y < 576){
